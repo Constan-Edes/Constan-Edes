@@ -45,12 +45,10 @@ class Myself:
 
 <div align="center">
     
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanedes&langs_count=8&exclude_repo=terciariourquiza&hide=hack,blade&theme=radical&layout=compact" />
-</a>
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=constanedes&hide=contribs,prs&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
-</a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanedes&langs_count=8&exclude_repo=terciariourquiza&hide=hack,blade&theme=radical&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=constanedes&hide=contribs,prs&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
+
 
 </div>
 
