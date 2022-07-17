@@ -43,20 +43,19 @@ class Myself:
 </div>
 
 
-<div align="center" >
-
-[![](https://github-readme-stats.vercel.app/api?username=constanedes)](https://github.com/constanedes/github-readme-stats)
 
 </div>
 <div align="center">
     <img align="center" style="height: 50%; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=constanedes&show_icons=true&locale=en"
         alt="constan-edes" />
-</div>
-<div align="center">
+        
     <img  style="height: 50%; width: 50%;"
     src="https://github-readme-streak-stats.herokuapp.com/?user=constanedes&" alt="constanedes" />
     <a  href="https://github.com/ryo-ma/github-profile-trophy">
 
+</div>
+
+    
 
 
 
