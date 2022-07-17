@@ -44,15 +44,12 @@ class Myself:
 
 
 
-</div>
-<div align="center">
-
-    <img align="center" style="height: 50%; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=constanedes&show_icons=true&locale=en" alt="constan-edes"/>
-        
-    <img style="height: 50%; width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=constanedes&" alt="constanedes" />
-    
-
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=constanedes&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=constanedes&repo=convoychat" />
+</a>
 
     
 
