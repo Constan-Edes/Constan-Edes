@@ -44,12 +44,13 @@ class Myself:
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=constanedes&repo=github-readme-stats" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanedes&langs_count=8&exclude_repo=terciariourquiza&hide=hack,blade&theme=radical&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=constanedes&repo=convoychat" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&count_private=true&theme=radical" />
 </a>
+
 
     
 
