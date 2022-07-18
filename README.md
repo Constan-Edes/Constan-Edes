@@ -33,15 +33,28 @@ class Myself:
 <div align="center">
 
 
-|                |                                                                                             |
-|:--------------:|:-------------------------------------------------------------------------------------------:|
-| **Languajes ** | ![](https://skillicons.dev/icons?i=js,ts,py,solidity&theme=light)                           |
-| **Front-End ** | ![](https://skillicons.dev/icons?i=react,sass,tailwind,nextjs,webpack&theme=light)          |
-| **Back-End **  | ![](https://skillicons.dev/icons?i=nodejs,postgres,mongodb,django,flask,sqlite&theme=light) |
-| **Extras**     | ![](https://skillicons.dev/icons?i=discord,vscode,github,git,docker,bash&theme=light)       |
-| **Deploy**     | ![](https://skillicons.dev/icons?i=heroku,vercel,netlify&theme=light)                       |
-| **null**       |                                                                                             |
-
+<table>
+    <tr>
+        <td>Languajes </td>
+        <td>![](https://skillicons.dev/icons?i=js,ts,py,solidity&amp;theme=light)</td>
+    </tr>
+    <tr>
+        <td>Front-End</td>
+        <td>![](https://skillicons.dev/icons?i=react,sass,tailwind,nextjs,webpack&amp;theme=light)</td>
+    </tr>
+    <tr>
+        <td>Back-End </td>
+        <td>![](https://skillicons.dev/icons?i=nodejs,postgres,mongodb,django,flask,sqlite&amp;theme=light)</td>
+    </tr>
+    <tr>
+        <td>Extras</td>
+        <td>![](https://skillicons.dev/icons?i=discord,vscode,github,git,docker,bash&amp;theme=light)</td>
+    </tr>
+    <tr>
+        <td>Deploy</td>
+        <td>![](https://skillicons.dev/icons?i=heroku,vercel,netlify&amp;theme=light)</td>
+    </tr>
+</table>
 
 </div>
 
