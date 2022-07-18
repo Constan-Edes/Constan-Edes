@@ -49,10 +49,10 @@ class Myself:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 50%;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanedes&langs_count=8&exclude_repo=terciariourquiza&hide=hack,blade&theme=radical&layout=compact" />
+  <img style="width: 50%; height: 30%"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanedes&langs_count=8&exclude_repo=terciariourquiza&hide=hack,blade&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 40%;" align="left" src="https://github-readme-stats.vercel.app/api?username=constanedes&hide=contribs,prs&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
+  <img style="width: 50%;" align="left" src="https://github-readme-stats.vercel.app/api?username=constanedes&hide=contribs,prs&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
 </a>
 
 
