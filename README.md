@@ -49,7 +49,7 @@ class Myself:
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  height="250px;" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanedes&langs_count=8&exclude_repo=terciariourquiza&hide=hack,blade&theme=radical&layout=compact" />
+  <img  height="200px;" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanedes&langs_count=8&exclude_repo=terciariourquiza&hide=hack,blade&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img   width="45%" src="https://github-readme-stats.vercel.app/api?username=constanedes&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
