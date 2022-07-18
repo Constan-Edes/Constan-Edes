@@ -33,7 +33,6 @@ class Myself:
 <div align="center">
 
 
-|:---------------|:-------------------------------------------------------------------------------------------:|
 | **Languajes**  | ![](https://skillicons.dev/icons?i=js,ts,py,solidity&theme=light)                           |
 | **Front-End**  | ![](https://skillicons.dev/icons?i=react,sass,tailwind,nextjs,webpack&theme=light)          |
 | **Back-End**   | ![](https://skillicons.dev/icons?i=nodejs,postgres,mongodb,django,flask,sqlite&theme=light) |
