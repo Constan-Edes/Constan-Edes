@@ -35,24 +35,24 @@ class Myself:
 
 <table>
     <tr>
-        <td>Languajes </td>
-        <td>![](https://skillicons.dev/icons?i=js,ts,py,solidity&amp;theme=light)</td>
+        <td><strong>Languajes</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=js,ts,py,solidity&amp;theme=light"/></td>
     </tr>
     <tr>
-        <td>Front-End</td>
-        <td>![](https://skillicons.dev/icons?i=react,sass,tailwind,nextjs,webpack&amp;theme=light)</td>
+        <td><strong>Front-End</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=react,sass,tailwind,nextjs,webpack&amp;theme=light"/></td>
     </tr>
     <tr>
-        <td>Back-End </td>
-        <td>![](https://skillicons.dev/icons?i=nodejs,postgres,mongodb,django,flask,sqlite&amp;theme=light)</td>
+        <td><strong>Back-End</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,django,flask,sqlite&amp;theme=light"/></td>
     </tr>
     <tr>
-        <td>Extras</td>
-        <td>![](https://skillicons.dev/icons?i=discord,vscode,github,git,docker,bash&amp;theme=light)</td>
+        <td><strong>Others</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=discord,vscode,github,git,docker,bash&amp;theme=light"/></td>
     </tr>
     <tr>
-        <td>Deploy</td>
-        <td>![](https://skillicons.dev/icons?i=heroku,vercel,netlify&amp;theme=light)</td>
+        <td><strong>Deploy</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=heroku,vercel,netlify&amp;theme=light"/></td>
     </tr>
 </table>
 
