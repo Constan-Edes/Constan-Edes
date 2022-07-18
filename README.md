@@ -48,7 +48,7 @@ class Myself:
 
 <div align="center">
 
-<a height="30%" href="#">
+<a height="200" href="#">
     <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanedes&langs_count=8&exclude_repo=terciariourquiza&hide=hack,blade&theme=radical&layout=compact" />
 </a>
 <a href="">
