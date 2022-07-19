@@ -40,11 +40,11 @@ class Myself:
     </tr>
     <tr>
         <td><strong>Front-End</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=react,sass,tailwind,nextjs,webpack&amp;theme=light"/></td>
+        <td><img src="https://skillicons.dev/icons?i=react,sass,tailwind,nextjs,webpack&amp;theme=dark"/></td>
     </tr>
     <tr>
         <td><strong>Back-End</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,django,flask,sqlite&amp;theme=light"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,django,flask,sqlite&amp;theme=dark"/></td>
     </tr>
     <tr>
         <td><strong>Others</strong></td>
