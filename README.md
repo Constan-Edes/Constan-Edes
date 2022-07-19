@@ -48,7 +48,7 @@ class Myself:
     </tr>
     <tr>
         <td><strong>Others</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=git,vscode,bash,discord,github,docker&amp;theme=light"/></td>
+        <td><img src="https://skillicons.dev/icons?i=git,vscode,bash,discord,docker&amp;theme=light"/></td>
     </tr>
     <tr>
         <td><strong>Deploy</strong></td>
