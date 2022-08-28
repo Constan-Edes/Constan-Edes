@@ -36,7 +36,7 @@ class Myself:
 <table>
     <tr>
         <td><strong>Languajes</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=js,ts,py,solidity&amp;theme=light"/></td>
+        <td><img src="https://skillicons.dev/icons?i=js,ts,py&amp;theme=light"/></td>
     </tr>
     <tr>
         <td><strong>Front-End</strong></td>
@@ -44,7 +44,7 @@ class Myself:
     </tr>
     <tr>
         <td><strong>Back-End</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,django,flask,sqlite&amp;theme=dark"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs,msyql,postgres,mongodb,django,flask,sqlite&amp;theme=dark"/></td>
     </tr>
     <tr>
         <td><strong>Others</strong></td>
