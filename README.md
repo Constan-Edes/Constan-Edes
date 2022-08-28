@@ -44,7 +44,7 @@ class Myself:
     </tr>
     <tr>
         <td><strong>Back-End</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=nodejs,msyql,postgres,mongodb,django,flask,sqlite&amp;theme=dark"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,django,flask,sqlite&amp;theme=dark"/></td>
     </tr>
     <tr>
         <td><strong>Others</strong></td>
