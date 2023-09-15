@@ -27,43 +27,37 @@ class Myself:
 <!-- Tech header -->
 <h2 align="center">Technologies</h2>
 <!-- Tech desc -->
-<h4 align="center">Some technical tools used in my projects</h4>
+<h3 align="center">Some technical tools that I use and am learning at the moment</h3>
 
 <!-- Knowledge table -->
 <div align="center">
 <table>
     <tr>
         <td><strong>Languajes</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=js,ts,py,go&amp;theme=light"/></td>
+        <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,dart,cs&amp;theme=light"/></td>
     </tr>
     <tr>
         <td><strong>Front-End</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=react,svelte,sass,tailwind,webpack,vite&amp;theme=dark"/></td>
+        <td><img src="https://skillicons.dev/icons?i=react,svelte,nextjs,astro,tailwind,sass,webpack,vite&amp;theme=dark"/></td>
     </tr>
     <tr>
         <td><strong>Back-End</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=nodejs,deno,mysql,postgres,sqlite,mongodb,django,express&amp;theme=dark"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs,dotnet,mysql,postgres,sqlite,mongodb,nestjs,django,jest&amp;theme=dark"/></td>
     </tr>
     <tr>
         <td><strong>Others</strong></td>
-        <td><img src="https://skillicons.dev/icons?i=git,vscode,bash,docker&amp;theme=light"/></td>
+        <td><img src="https://skillicons.dev/icons?i=git,github,vscode,bash,docker,discord,aws,azure&amp;theme=light"/></td>
     </tr>
 </table>
 
 </div>
 
-
-
-    
-
 <div align="center">
-
 <a  href="#">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanedes&langs_count=8&exclude_repo=terciariourquiza&hide=hack,blade&theme=radical&layout=compact" />
 </a>
 <a href="">
-    <img    src="https://github-readme-stats.vercel.app/api?username=constanedes&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=constanedes&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
 </a>
-
 </div>
 
